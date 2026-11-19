@@ -199,7 +199,7 @@
 				</setting>
 				<setting id="cemu_stick_deadzone_p1" type="string" label="30048" help="30049">
 					<level>0</level>
-					<default>25</default>
+					<default>0</default>
 					<constraints>
 						<options>
 							<option label="30037">0</option>
@@ -219,7 +219,7 @@
 				</setting>
 				<setting id="cemu_stick_deadzone_p2" type="string" label="30055" help="30056">
 					<level>0</level>
-					<default>25</default>
+					<default>0</default>
 					<constraints>
 						<options>
 							<option label="30037">0</option>
